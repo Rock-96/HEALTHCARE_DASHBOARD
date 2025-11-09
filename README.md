@@ -8,4 +8,6 @@ Dashboard/ → Charts & visualizations
 README.md → Project overview
 
 
+![Dashboard Screenshot](dashboard_screenshot.png)
 
+![Dashboard Screenshot](Dashboard/dashboard_screenshot.png)
